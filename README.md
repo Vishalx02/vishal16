@@ -12,7 +12,7 @@
 
 - 📫 My email singhchauhanvishal350@gmail.com
 
-<img align="right" alt="Coding" width="400" 
+
 
 <a href="https://instagram.com/vishal.singh._02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal.singh._02" height="30" width="40" /></a>
 
